@@ -1,0 +1,9 @@
+{
+	"name": "Luyx Next.js Workflow",
+	"description": "Luyx starter workflow for Next.js projects.",
+	"categories": [
+		"JavaScript",
+		"TypeScript",
+		"TSX"
+	]
+}
